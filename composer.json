@@ -1,0 +1,10 @@
+{
+    "name": "pro_php/chapitre3",
+    "description": "chapitre 3 composer",
+    "type": "project",
+    "minimum-stability": "stable",
+    "require": {
+        "villfa/invert-color": "^0.5.0",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
